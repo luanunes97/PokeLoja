@@ -228,8 +228,6 @@ header .secondary-header nav a:hover {
 }
 
 
-/* Aside */
-
 aside {
     padding-left: 30px;
     width: 25%;
@@ -275,8 +273,6 @@ aside .poke-ads .poke-ads-description {
     font-size: 12px;
 }
 
-
-/* Top Pokes Component - Vamos reutilizar ele no footer */
 
 .top-pokes {
     margin-top: 30px;
@@ -359,8 +355,6 @@ aside .poke-ads .poke-ads-description {
     margin-top: 15px;
 }
 
-
-/* Footer */
 
 footer {
     padding-top: 30px;
